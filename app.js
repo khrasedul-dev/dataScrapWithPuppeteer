@@ -7,7 +7,7 @@ const app = express()
 
 app.get("/", async (req, res) => {
 
-    const url = 'https://www.facebook.com/100032541319962/posts/575774756850563'
+    const url = 'https://facebook.com/100032541319962/posts/575774756850563'
 
     const browser = await puppeteer.launch({
         headless: true,
