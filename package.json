@@ -16,7 +16,9 @@
     "express": "^4.17.3",
     "micro-bot": "^2.5.3",
     "mongoose": "^6.2.7",
-    "puppeteer": "^13.5.1"
+    "puppeteer": "^13.5.1",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.9.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
